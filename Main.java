@@ -1,5 +1,6 @@
 
 public class Main {
+    //project_name is =score_keeping :)
     public static void skorhesapla(String isim,int puan){
         System.out.println(isim +" adlı oyuncunun "+puan +" puanı vardır.");
     }
